@@ -9,4 +9,7 @@ Digital signal processing and analog signal processing are subfields of signal p
 
 * To digitally analyze and manipulate an analog signal, it must be digitized with an analog-to-digital converter (ADC). Sampling is usually carried out in two stages, discretization and quantization. Discretization means that the signal is divided into equal intervals of time, and each interval is represented by a single measurement of amplitude. Quantization means each amplitude measurement is approximated by a value from a finite set. Rounding real numbers to integers is an example.
 
+![Digital-signal-processing](https://amarketjournal.com/wp-content/uploads/2018/12/90160.jpg)
+
 > source : wikipedia
+> source : https://amarketjournal.com
