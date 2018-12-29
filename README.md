@@ -11,5 +11,6 @@
 
 ![Digital-signal-processing](https://amarketjournal.com/wp-content/uploads/2018/12/90160.jpg)
 
-> source : wikipedia \n
-> source : https://amarketjournal.com
+> source : wikipedia
+
+> imagesource : https://amarketjournal.com
